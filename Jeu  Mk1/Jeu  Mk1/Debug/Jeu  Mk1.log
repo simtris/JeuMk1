@@ -1,0 +1,3 @@
+﻿  main.cpp
+a:\windows\documents\programmation\projets\jeu  mk1\jeu  mk1\main.cpp(111): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'int', perte possible de données
+  Jeu  Mk1.vcxproj -> A:\WINDOWS\Documents\Programmation\Projets\Jeu  Mk1\Debug\Jeu  Mk1.exe
